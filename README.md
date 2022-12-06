@@ -15,7 +15,7 @@ Hey!, people call me Hugo, i'm a FullStack Developer from  **Sincelejo, Colombia
 - 👨🏽‍💻 Pronouns: he/him
 - 🔭 I’m currently working on [Binnacle](https://www.binnacle.com.mx/).
 
-<h3>Things I code with</h3>
+<h3>Things I code/work with</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
