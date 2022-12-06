@@ -1,12 +1,12 @@
 ## Hey! what's going on?
-<a href="https://www.instagram.com/hugo_anayad/"><img
+<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/hugo_anayad/"><img
       src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label="
       alt="Instagram"
     /></a>
-<a href="https://www.linkedin.com/in/hugoanayadev/"><img
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/hugoanayadev/"><img
       src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="
       alt="LinkedIn"
-    /></a> <a href="https://twitter.com/LeColombiane"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LeColombiane?color=1&logo=twitter&style=for-the-badge"></a>
+    /></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/LeColombiane"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LeColombiane?color=1&logo=twitter&style=for-the-badge"></a>
 
 Hey!, people call me Hugo, i'm a FullStack Developer from  **Sincelejo, Colombia**.
     
