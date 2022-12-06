@@ -1,10 +1,10 @@
 ## Hey! what's going on?
 <a href="https://www.instagram.com/hugo_anayad/"><img
-      src="https://img.shields.io/static/v1?logo=instagram&style=for-the-badge&color=00CC00&label=instagram&message=📲"
+      src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label="
       alt="Instagram"
     /></a>
 <a href="https://www.linkedin.com/in/hugoanayadev/"><img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=00CC00&label=LinkedIn&message=💻"
+      src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="
       alt="LinkedIn"
     /></a> <a href="https://twitter.com/LeColombiane"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LeColombiane?color=1&logo=twitter&style=for-the-badge"></a>
 
@@ -44,6 +44,3 @@ Hey!, people call me Hugo, i'm a FullStack Developer from  **Sincelejo, Colombia
 ![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Google](https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=4285F4&logo=Google&logoColor=FFFFFF&label=)
-
-
-![Metrics](https://raw.githubusercontent.com/HRAD-bit/HRAD-bit/github-metrics/github-metrics.svg)
