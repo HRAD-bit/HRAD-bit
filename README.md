@@ -15,6 +15,10 @@ I'm a musician, developer, geek, pasional gamer and a lovely person :D, if u wan
 - 📩 Get in touch: hugoanayad@gmail.com / hugo.anaya@live.com
 - 👨🏽‍💻 Pronouns: he/him
 - 🔭 I’m currently working on [Binnacle](https://www.binnacle.com.mx/).
+- I'm Colombian, so if u want to contribuite to my work <a target="_blank" rel="noopener noreferrer" href="https://www.buymeacoffee.com/hradev"><img
+      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
+      alt="Buy me a Coffe!"
+    /></a>
 
 <h3>Things I code/work with</h3>
 
