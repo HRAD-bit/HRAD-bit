@@ -8,9 +8,10 @@
       alt="LinkedIn"
     /></a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/LeColombiane"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LeColombiane?color=1&logo=twitter&style=for-the-badge"></a>
 
-Hey!, people call me Hugo, i'm a FullStack Developer from  **Sincelejo, Colombia**.
+Hey!, people call me Hugo, i'm a FullStack Developer from  **Sincelejo, Colombia**, studied in **Misantla, Veracruz, México**.
+I'm a musician, developer, geek, pasional gamer and a lovely person :D, if u want to learn more about me check my social media upthere, and more info below.
     
-- 🧑‍🎓 I’m currently learning UX|UI Design.
+- 🧑‍🎓 I’m currently learning about UX|UI Design at Google.
 - 📩 Get in touch: hugoanayad@gmail.com / hugo.anaya@live.com
 - 👨🏽‍💻 Pronouns: he/him
 - 🔭 I’m currently working on [Binnacle](https://www.binnacle.com.mx/).
