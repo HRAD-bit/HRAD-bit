@@ -1,4 +1,4 @@
-## Hey! what's going on?
+	## Hey! what's going on?
 <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/hugo_anayad/"><img
       src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label="
       alt="Instagram"
@@ -11,7 +11,7 @@
 Hey!, people call me Hugo, i'm a FullStack Developer from  **Sincelejo, Colombia**,i studied at **Misantla, Veracruz, México**.
 I'm a musician, developer, geek, pasional gamer and a lovely person :D, if u want to learn more about me check my social media upthere, and more info below.
     
-- 🧑‍🎓 I’m currently learning about Cybersecurity Analyst at Cisco.
+- 🧑‍🎓 I’m currently learning abouu: Next.Js / React.
 - 📩 Get in touch: hugoanayad@gmail.com / hugo.anaya@live.com
 - 👨🏽‍💻 Pronouns: he/him
 - 🔭 I’m currently working on [Binnacle](https://www.binnacle.com.mx/).
